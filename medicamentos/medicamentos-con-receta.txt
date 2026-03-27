@@ -16,3 +16,4 @@
 - Ciprofloxacino
 - Prednisona
 - Levotiroxina
+- Losartána
