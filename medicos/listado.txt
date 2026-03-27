@@ -3,3 +3,6 @@
 - Doctor Pablo
 - Doctor Manuel
 - Doctor Enrique
+- Doctor Pedro
+- Doctor Juan
+- Doctora Fatima
