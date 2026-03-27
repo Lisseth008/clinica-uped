@@ -6,3 +6,5 @@
 - Doctor Pedro
 - Doctor Juan
 - Doctora Fatima
+- Doctora Maria
+- Doctor Antonio
