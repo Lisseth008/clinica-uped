@@ -7,4 +7,9 @@
 - Doctor Juan
 - Doctora Fatima
 - Doctora Maria
+<<<<<<< HEAD
 - Doctor Anton
+=======
+- Doctor Flores
+- Doctora Flores
+>>>>>>> nuevos-doctores
